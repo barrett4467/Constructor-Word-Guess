@@ -50,7 +50,7 @@ function stopGame(){
 
 startGame();
 function game (){
-    if (count < letters.length || incorrectGuesses === 10){
+    if (count < letters.length || incorrectGuesses === 15){
         inquirer.prompt([
             {
                 type: "list",
