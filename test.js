@@ -14,9 +14,9 @@ for (var i = 0; i < chosenWord.length; i++){
 }
 function startGame (){
    
-    console.log("Chosen Word: " + chosenWord);
-    console.log("Correct letter: " + correctGuess);
-    console.log("letters: " + letters.join(", "));
+    // console.log("Chosen Word: " + chosenWord);
+    // console.log("Correct letter: " + correctGuess);
+    // console.log("letters: " + letters.join(", "));
     
     for (var i = 0; i < letters.length; i++){
         correctGuess.push("__");
