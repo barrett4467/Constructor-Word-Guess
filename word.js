@@ -1,6 +1,6 @@
 var Letter = require("./letter");
 var letters = [];
-var userGuess = "e";
+// var userGuess = "e";
 
 // var test = new Letter(chosenWord, userGuess, letters);
 
@@ -12,7 +12,7 @@ var userGuess = "e";
 // test.createLetters();
 
 
-function Word (chosenWord){
+function Word (chosenWord, userGuess){
     this.chosenWord = chosenWord;
     this.letters = new Letter(chosenWord, userGuess);
 }
