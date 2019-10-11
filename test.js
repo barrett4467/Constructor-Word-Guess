@@ -1,5 +1,6 @@
 var inquirer = require("inquirer");
-var wordArr = ["awkward", "bagpipes", "banjo", "bungler", "croquet", "crypt", "dwarves", "fervid", "fishhook", "fjord"];
+var wordArr = ["banjo"];
+//"awkward", "bagpipes", "banjo", "bungler", "croquet", "crypt", "dwarves", "fervid", "fishhook", "fjord"
 var chosenWord = wordArr[Math.floor(wordArr.length * Math.random())];
 var correctGuess = [];
 letters = [];
