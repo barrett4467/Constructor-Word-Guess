@@ -5,4 +5,4 @@ The constructor word guess game is essentially a hangman game build using node.j
 
 
 
-You can find the link here [](constructor.gif) https://drive.google.com/file/d/15nCZm0yLzoUIGuw6JBkP7kx32pr_tCi9/view
+You can find the link here ![](constructor.gif) https://drive.google.com/file/d/15nCZm0yLzoUIGuw6JBkP7kx32pr_tCi9/view
